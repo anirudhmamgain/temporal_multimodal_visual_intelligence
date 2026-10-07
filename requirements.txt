@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+Pillow
+torch
+torchvision
+transformers>=4.49.0
+accelerate
+num2words
+tqdm

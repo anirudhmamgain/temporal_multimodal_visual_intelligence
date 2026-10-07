@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+data/*
+models/*
+embeddings/*
+results/*
+!data/README.md
+!models/README.md
+!embeddings/README.md
+!results/README.md
